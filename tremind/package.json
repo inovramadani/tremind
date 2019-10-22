@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "16.3.2",
     "react-clock": "2.3.0",
-    "react-dom": "16.3.2",
+    "react-dom": "16.10.2",
     "react-redux": "5.0.7",
     "react-scripts": "1.1.4",
     "reactjs-popup": "1.1.3",
